@@ -1,4 +1,4 @@
-# `🌟️𝆬⃝𝗔𝗹𝗽𝗵𝗮 | ᴮᴼᵀ ᴠ1`
+# `🌟️𝆬⃝AlphaBot-V1`
 
 ### `𝗚𝗿𝘂𝗽𝗼 𝗢𝗳𝗰 𝗱𝗲 𝗔𝗹𝗽𝗵𝗮𝗕𝗼𝘁`
 
@@ -20,7 +20,7 @@
 
 ### 𝗦𝗶 𝘁𝗶𝗲𝗻𝗲 𝗱𝘂𝗱𝗮𝘀 𝘀𝗼𝗯𝗿𝗲 𝗹𝗮 𝗶𝗻𝘀𝘁𝗮𝗹𝗮𝗰𝗶𝗼𝗻 𝗲𝗻𝘃𝗶𝗲 𝗺𝗲𝗻𝘀𝗮𝗷𝗲 𝘃𝗶𝗮 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽
 
-[![WhatsApp](https://img.shields.io/badge/DyLux-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instabio.cc/fg98ff) 
+[![WhatsApp](https://img.shields.io/badge/TSG-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instabio.cc/fg98ff) 
 
 ***
 
